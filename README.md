@@ -48,17 +48,7 @@ npm run build
 
 ---
 
-### 3. Copy SSR bundle to backend
-
-```bash
-cp frontend/build/ssr-bundle.js src/main/resources/static/ssr-bundle.js
-```
-
-> You can automate this step with a script or CI/CD pipeline.
-
----
-
-### 4. Build and run the backend
+### 3. Build and run the backend
 
 ```bash
 cd ..
