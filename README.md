@@ -4,6 +4,14 @@ This project demonstrates how to integrate server-side rendering (SSR) of React 
 
 ---
 
+## 📖 Read the Full Article
+
+For a detailed explanation with step-by-step instructions and code walkthroughs, check out the full blog post:
+
+👉 [Server-Side Rendering with Spring Boot and React using GraalVM](https://www.ahmad-osman.com/en/blogs/server-side-rendering-with-spring-boot-and-react/)
+
+---
+
 ## 📁 Project Structure
 
 ```
