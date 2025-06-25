@@ -1,0 +1,27 @@
+# === Maven / Java ===
+/target/
+*.class
+*.jar
+*.war
+*.log
+
+# === IDEs ===
+.idea/
+*.iml
+*.ipr
+*.iws
+*.classpath
+*.project
+*.settings/
+
+# === VS Code ===
+.vscode/
+
+# === OS files ===
+.DS_Store
+Thumbs.db
+
+# === Node (frontend) ===
+/frontend/node_modules/
+/frontend/build/
+/frontend/.env
